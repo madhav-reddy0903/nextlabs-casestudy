@@ -1,6 +1,6 @@
 ---
 title: "nextlabs-casestudy"
-slug: "getting-started"
+slug: "case-study"
 excerpt: "Solution to the case-study by Madhav Reddy"
 hidden: false
 createdAt: "2022-05-12T04:41:11.723Z"
